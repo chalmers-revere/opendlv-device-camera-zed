@@ -1,3 +1,5 @@
+Moved to https://git.opendlv.org.
+
 # OpenDLV microservice to interface with a ZED camera using GPU acceleration
 
 ## Usage
